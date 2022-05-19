@@ -1,6 +1,6 @@
 alembic==1.5.1
 apache-airflow==2.3.0
-apispec==2.0.2
+apispec==3.3.2
 asn1crypto==0.24.0
 attrs==20.3.0
 Babel==2.7.0
