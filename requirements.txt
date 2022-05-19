@@ -45,7 +45,7 @@ lockfile==0.12.2
 Mako==1.1.0
 Markdown==3.3.7
 MarkupSafe==1.1.1
-marshmallow==2.19.5
+marshmallow==3.15.0
 marshmallow-enum==1.5.1
 marshmallow-sqlalchemy==0.22.0
 numpy==1.22.3
