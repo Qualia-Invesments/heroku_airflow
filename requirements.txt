@@ -39,7 +39,7 @@ iso8601==0.1.12
 itsdangerous==1.1.0
 Jinja2==2.10.1
 json-merge-patch==0.2
-jsonschema==3.0.2
+jsonschema==4.5.1
 lazy-object-proxy==1.4.2
 lockfile==0.12.2
 Mako==1.1.0
