@@ -7,7 +7,7 @@ Babel==2.7.0
 bcrypt==3.1.7
 cached-property==1.5.1
 certifi==2019.6.16
-cffi==1.12.3
+cffi==1.15.0
 chardet==3.0.4
 Click==7.0
 colorama==0.4.1
